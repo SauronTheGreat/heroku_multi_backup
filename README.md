@@ -70,3 +70,7 @@ And voila ! Files will be uploaded to your bucket.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+##References
+I must accept that the idea for this gem has come using [pgbackup-archive gem](https://github.com/kjohnston/pgbackups-archive) and I have also used his code as reference.
+
