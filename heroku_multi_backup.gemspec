@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["contactme@rushabhhathi.com"]
   spec.summary       = %q{A Gem to create backups of multiple heroku apps and upload it to the specified Amazon S3 bucket.}
   spec.description   = %q{It automates the backup process of heroku and uploads the backup file to the amazon s3 cloud servers.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/SauronTheGreat/heroku_multi_backup"
   spec.license       = "MIT"
 
   spec.files         = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
